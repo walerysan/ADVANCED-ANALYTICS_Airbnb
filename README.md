@@ -13,4 +13,4 @@ The repository consists of:
 2. Data sets
 3. Scripts
 
-The insights are presented in Tableau, here.
+The insights are presented in Tableau's [dashboard](https://public.tableau.com/app/profile/anna.walerys/viz/Airbnb_16358848257400/Airbnb?publish=yes).
