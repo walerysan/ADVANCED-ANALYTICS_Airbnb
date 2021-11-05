@@ -12,6 +12,5 @@ The repository consists of:
 1. Project brief
 2. Data sets
 3. Scripts
-4. Visualizations
 
 The insights are presented in Tableau, here.
