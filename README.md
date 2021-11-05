@@ -1,4 +1,6 @@
 # CF_ADVANCED-ANALYTICS_Airbnb
+**Advanced analytics of Airbnb listings in Broward County, FL with Jupyter**<br>
+_Analysis performed for learning purposes with CareerFoundry educational platform_
 
 In this analysis, I have explored the main metrics of the rental listings available on the Airbnb platform. 
 
